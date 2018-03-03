@@ -1,3 +1,7 @@
+# Fork over fork
+
+Just made this fork to make it available to install via npm.
+
 # Fork of SimpleMDE
 This repository is a fork of [SimpleMDE, made by Sparksuite](https://github.com/sparksuite/simplemde-markdown-editor/).
 
